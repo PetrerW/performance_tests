@@ -1,6 +1,7 @@
 #!/bin/bash
  
 #simulate
+rm hpccoutf.txt
 rm hpcc10.txt
 touch hpcc10.txt
 
